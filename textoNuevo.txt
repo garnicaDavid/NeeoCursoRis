@@ -1,3 +1,7 @@
 El primer texto de este archivo txt
 El segundo texto
+<<<<<<< HEAD
 El tercer texto
+=======
+El 3ro
+>>>>>>> 87011521de92799603d0fd64ffdabdd2976f74ba
